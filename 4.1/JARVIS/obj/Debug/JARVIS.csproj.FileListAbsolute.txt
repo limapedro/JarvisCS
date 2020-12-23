@@ -1,0 +1,216 @@
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.Form1.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.exe
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.pdb
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\Interop.WMPLib.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AxInterop.WMPLib.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\Interop.WMPLib.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\AxInterop.WMPLib.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.csproj.ResolveComReference.cache
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.MediaPlayer.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.AudioRecorder.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\NAudio.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.AddNewCommand.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.ProcessList.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.TextEditor.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.AppsDialog.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.LoadingSystem.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\pt-BR\JARVIS.resources.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.Form1.pt-BR.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\pt-BR\JARVIS.resources.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.LoadingSystem.pt-BR.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.SelectVoice.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AIMLbot.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AIMLbot.pdb
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.MotionDetection.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AForge.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AForge.Imaging.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AForge.Video.DirectShow.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AForge.Video.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AForge.Vision.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AForge.Math.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AForge.xml
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AForge.Imaging.xml
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AForge.Video.xml
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AForge.Video.DirectShow.xml
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AForge.Vision.xml
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\AForge.Math.xml
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.PersonIdentifier.resources
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\Emgu.CV.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\Emgu.CV.GPU.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\Emgu.CV.ML.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\Emgu.CV.OCR.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\Emgu.CV.UI.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\Emgu.Util.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\ZedGraph.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\Emgu.CV.xml
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\Emgu.CV.GPU.xml
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\Emgu.CV.ML.xml
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\Emgu.CV.OCR.xml
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\Emgu.CV.UI.xml
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\Emgu.Util.xml
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\cudart32_40_17.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\cufft32_40_17.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\cvextern.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\cvextern_gpu.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\haarcascade_frontalface_default.xml
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\npp32_40_17.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\opencv_calib3d231.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\opencv_contrib231.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\opencv_core231.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\opencv_features2d231.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\opencv_ffmpeg.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\opencv_flann231.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\opencv_gpu231.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\opencv_highgui231.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\opencv_imgproc231.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\opencv_legacy231.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\opencv_ml231.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\opencv_objdetect231.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\bin\Debug\opencv_video231.dll
+C:\Programacão\CodigoShare Artigos\JARVIS\JARVIS\obj\Debug\JARVIS.FileCompressor.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\Interop.WMPLib.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\AxInterop.WMPLib.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.csproj.ResolveComReference.cache
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.exe
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.pdb
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\cudart32_40_17.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\cvextern.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\cvextern_gpu.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\haarcascade_frontalface_default.xml
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\opencv_calib3d231.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\opencv_contrib231.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\opencv_core231.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\opencv_features2d231.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\opencv_ffmpeg.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\opencv_flann231.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\opencv_highgui231.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\opencv_imgproc231.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\opencv_legacy231.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\opencv_ml231.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\opencv_objdetect231.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\opencv_video231.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\AForge.Math.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\ZedGraph.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\AForge.xml
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\AForge.Imaging.xml
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\AForge.Video.xml
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\AForge.Video.DirectShow.xml
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\AForge.Vision.xml
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\AIMLbot.pdb
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\Emgu.CV.xml
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\Emgu.CV.GPU.xml
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\Emgu.CV.ML.xml
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\Emgu.CV.OCR.xml
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\Emgu.CV.UI.xml
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\Emgu.Util.xml
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\AForge.Math.xml
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.AddNewCommand.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.AppsDialog.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.AudioRecorder.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.FileCompressor.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.Form1.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.LoadingSystem.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.MediaPlayer.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.MotionDetection.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.PersonIdentifier.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.ProcessList.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.SelectVoice.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.TextEditor.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.YoutubePlayer.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.Form1.pt-BR.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.LoadingSystem.pt-BR.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\pt-BR\JARVIS.resources.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\JARVIS.exe
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\JARVIS.pdb
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\pt-BR\JARVIS.resources.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\Interop.WMPLib.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\AxInterop.WMPLib.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.EnterURL.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\obj\Debug\JARVIS.WebLoader.resources
+C:\Jarvis\JARVIS_3_Developer\JARVIS\bin\Debug\HtmlAgilityPack.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\cudart32_40_17.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\cvextern.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\cvextern_gpu.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\haarcascade_frontalface_default.xml
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\opencv_calib3d231.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\opencv_contrib231.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\opencv_core231.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\opencv_features2d231.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\opencv_ffmpeg.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\opencv_flann231.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\opencv_highgui231.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\opencv_imgproc231.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\opencv_legacy231.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\opencv_ml231.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\opencv_objdetect231.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\opencv_video231.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\JARVIS.exe
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\JARVIS.pdb
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\pt-BR\JARVIS.resources.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\HtmlAgilityPack.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\AForge.Math.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\AForge.xml
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\AForge.Imaging.xml
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\AForge.Video.xml
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\AForge.Video.DirectShow.xml
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\AForge.Vision.xml
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\AIMLbot.pdb
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\Emgu.CV.xml
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\Emgu.CV.GPU.xml
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\Emgu.CV.ML.xml
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\Emgu.CV.OCR.xml
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\Emgu.CV.UI.xml
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\Emgu.Util.xml
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\AForge.Math.xml
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\Interop.WMPLib.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\AxInterop.WMPLib.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\Interop.WMPLib.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\AxInterop.WMPLib.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.csproj.ResolveComReference.cache
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.AddNewCommand.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.AppsDialog.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.AudioRecorder.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.EnterURL.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.FileCompressor.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.Form1.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.LoadingSystem.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.MediaPlayer.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.MotionDetection.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.PersonIdentifier.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.ProcessList.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.SelectVoice.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.TextEditor.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.WebLoader.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.YoutubePlayer.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.Form1.pt-BR.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.LoadingSystem.pt-BR.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\pt-BR\JARVIS.resources.dll
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.exe
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.pdb
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.CommandList.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.AIMLEditor.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.DocEditor.resources
+C:\Jarvis\JARVIS_4_Developer\JARVIS\bin\Debug\CodigoLogoVideos.txt
+C:\Jarvis\JARVIS_4_Developer\JARVIS\obj\Debug\JARVIS.UserSetings.resources

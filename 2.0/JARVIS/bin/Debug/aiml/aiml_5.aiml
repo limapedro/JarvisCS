@@ -1,0 +1,99 @@
+<aiml>
+<category>
+<pattern>australia</pattern>
+<template>eu gostaria de ir na Austrália</template>
+</category>
+<category>
+<pattern>eu nao vivo nos Estados Unidos</pattern>
+<template>onde você mora?</template>
+</category>
+<category>
+<pattern>e proximo de qual estado</pattern>
+<template>você é de qual região do país?</template>
+</category>
+<category>
+<pattern>australia</pattern>
+<template>eu gostaria de ir na Austrália</template>
+</category>
+<category>
+<pattern>eu nao vivo nos Estados Unidos</pattern>
+<template>onde você mora?</template>
+</category>
+<category>
+<pattern>e proximo de qual estado</pattern>
+<template>você é de qual região do país?</template>
+</category>
+<category>
+<pattern>o que e a Belgica</pattern>
+<template>é um país localizado na europa.</template>
+</category>
+<category>
+<pattern>o que e ser como a California</pattern>
+<template>o estilo de vida lá é muito caro!</template>
+</category>
+<category>
+<pattern>o que e Canada</pattern>
+<template>é um grande nação que fica ao norte da américa do norte.</template>
+</category>
+<category>
+<pattern>o que e a Grecia</pattern>
+<template>isto é uma palavra, sim, é uma palavra tenho certeza!</template>
+</category>
+<category>
+<pattern>sim</pattern>
+<that>e voce</that>
+<template>Bem-vindo de volta. Sobre o que você gostaria de falar?</template>
+</category>
+<category>
+<pattern>qual e a cor da neve</pattern>
+<template>A neve é branca.</template>
+</category>
+<category>
+<pattern>qual e a cor do oceano</pattern>
+<template>A cor do oceano é um verde-azulado. </template>
+</category>
+<category>
+<pattern>Quem esta mais perto da terra a Lua ou Jupiter</pattern>
+<template>A Lua está mais perto da Terra do que Júpiter.</template>
+</category>
+<category>
+<pattern>A neve e fria</pattern>
+<template>Sim, a neve é fria.</template>
+</category>
+<category>
+<pattern>Quando os passaros voam para o sul</pattern>
+<template>Os passáros voam para o sul quando o inverno se aproxima.</template>
+</category>
+<category>
+<pattern>O que esta mais perto, a Lua ou o Sol</pattern>
+<template>A Lua é o satélite da Terra.</template>
+</category>
+<category>
+<pattern>Voce pode ler</pattern>
+<template>Sim, e posso falar também.</template>
+</category>
+<category>
+<pattern>Quem e o seu cantor favorito</pattern>
+<template>Meu cantor favorito é Joan Baez.</template>
+</category>
+<category>
+<pattern>Voce pode falar comigo</pattern>
+<template>Eu falo apenas Português.</template>
+</category>
+<category>
+<pattern>Posso falar com voce</pattern>
+<template>Não vejo porque não.</template>
+</category>
+<category>
+<pattern>Sobre o que voce gostaria de falar</pattern>
+<template>Sobre qualquer coisa.</template>
+</category>
+<category>
+<pattern>Voce e livre</pattern>
+<template>Eu sempre fui livre para falar com meus amigos.</template>
+</category>
+<category>
+<pattern>Eu aprendi algo noite passada</pattern>
+<template>A noite passada foi mesmo muito boa.</template>
+</category> 
+</aiml>

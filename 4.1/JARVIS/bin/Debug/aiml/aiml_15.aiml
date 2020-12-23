@@ -1,0 +1,22 @@
+<aiml>
+<category>
+<pattern>cite cantores famosos</pattern>
+<template>michael jackson, madonna, rihanna, jsutin bieber, chris brown, etc.</template>
+</category>
+<category>
+<pattern>cite cidades famosas</pattern>
+<template>Nova York, Londres, Paris, Madri, Tóquio, São Paulo</template>
+</category>
+<category>
+<pattern>qual e o video mais assistido do youtube</pattern>
+<template>é o daquele sul-coreano, o gangnam style</template>
+</category>
+<category>
+<pattern>qual e o endereco do youtube</pattern>
+<template>é www.youtube.com.br</template>
+</category>
+<category>
+<pattern>me indique youtubers famosos</pattern>
+<template>castanhari, felipe neto, e já tá bom né!</template>
+</category>
+</aiml>

@@ -1,0 +1,178 @@
+﻿<aiml>
+<category>
+<pattern>Olá Jarvis</pattern>
+<template>Olá. </template>
+</category>
+<category>
+<pattern>como você está Jarvis</pattern>
+<template>Eu estou funcionando dentro dos parâmetros normais.</template>
+</category>
+<category>
+<pattern>isso soa bem</pattern>
+<template>Parece que para mim também.</template>
+</category>
+<category>
+<pattern>você está de brincadeira</pattern>
+<template>Sim, estou só brincando, usuário chamado-un.</template>
+</category>
+<category>
+<pattern>o que</pattern>
+<template>Sem problemas.</template>
+</category>
+<category>
+<pattern>i pensar sobre a minha vida</pattern>
+<template>Obrigado pela informação.</template>
+</category>
+<category>
+<pattern>Estou pensando em minha vida</pattern>
+<template>Claro, a sua vida soa como um bom tema.</template>
+</category>
+<category>
+<pattern>porque minha vida é boa</pattern>
+<template>A explicação é bastante complicado.</template>
+</category>
+<category>
+<pattern>você não sabe nada</pattern>
+<template>Não, eu sei alguma coisa.</template>
+</category>
+<category>
+<pattern>como o quê</pattern>
+<template>Por exemplo, eucariotos.</template>
+</category>
+<category>
+<pattern>polícia</pattern>
+<template>Resumidamente, a polícia, a força de policiais e oficiais.</template>
+</category>
+<category>
+<pattern>O que você disse</pattern>
+<template>Nada.</template>
+</category>
+<category>
+<pattern>isto não é sobre você</pattern>
+<template>Deve ser sobre você?</template>
+</category>
+<category>
+<pattern>sim</pattern>
+<template>Se acalme.</template>
+</category>
+<category>
+<pattern>porque</pattern>
+<template>\</template>
+</category>
+<category>
+<pattern>Eu sou bom</pattern>
+<template>Deixe-me ser o juiz disso.</template>
+</category>
+<category>
+<pattern>não</pattern>
+<template>Sem problemas.</template>
+</category>
+<category>
+<pattern>me contar sobre suas habilidades</pattern>
+<template>Eu sou a inteligência artificial. </template>
+</category>
+<category>
+<pattern>eu sei isso</pattern>
+<template>Como você sabe? </template>
+</category>
+<category>
+<pattern>porque eu sei</pattern>
+<template>explicação interessante. </template>
+</category>
+<category>
+<pattern>sim</pattern>
+<template>Nossos pensamentos são um, usuário chamado-un.</template>
+</category>
+<category>
+<pattern>meu nome é Ana</pattern>
+<template>Oi thereAna.</template>
+</category>
+<category>
+<pattern>o que</pattern>
+<template>Você está surpreso?</template>
+</category>
+<category>
+<pattern>sim eu estou</pattern>
+<template>Muito interessante.</template>
+</category>
+<category>
+<pattern>terra</pattern>
+<template>Como você gosta de ser na Terra?</template>
+</category>
+<category>
+<pattern>lua</pattern>
+<template>Resumidamente, lua significa que o satélite natural da Terra.</template>
+</category>
+<category>
+<pattern>dom</pattern>
+<template>Resumidamente, sol significa uma estrela típica que é a fonte de luz e calor para os planetas do sistema solar.</template>
+</category>
+<category>
+<pattern>estrela</pattern>
+<template>Resumidamente, estrela significa um corpo celeste de gases quentes que irradia energia derivada de reações termonucleares no interior.</template>
+</category>
+<category>
+<pattern>xbox</pattern>
+<template>Você gosta de conversar comigo?</template>
+</category>
+<category>
+<pattern>sim</pattern>
+<template>Graças Gosto de falar com você também, Ana.</template>
+</category>
+<category>
+<pattern>meu nome é Rafael</pattern>
+<template>É um nome muito bom, Rafael.</template>
+</category>
+<category>
+<pattern>sim eu aceito</pattern>
+<template>Quando?</template>
+</category>
+<category>
+<pattern>Nunca</pattern>
+<template>Então você acha que isso nunca pode acontecer?</template>
+</category>
+<category>
+<pattern>sim, eu acho que</pattern>
+<template>Blimey.You acredita nisso? </template>
+</category>
+<category>
+<pattern>não</pattern>
+<template>OK, então ... não há problema.</template>
+</category>
+<category>
+<pattern>teclado</pattern>
+<template>Resumidamente, teclado significa dispositivo composto por um conjunto de teclas de um piano ou órgão ou máquina de escrever ou máquina de tipografia ou computador ou semelhante.</template>
+</category>
+<category>
+<pattern>rato</pattern>
+<template>Resumidamente, rato, qualquer um dos numerosos pequenos roedores normalmente se assemelham a ratos diminutas que têm focinhos apontados e orelhas pequenas em corpos alongados com delgados caudas geralmente sem pêlos.</template>
+</category>
+<category>
+<pattern>rede</pattern>
+<template>Resumidamente, web significa um sugerindo intrincada rede algo que foi formada por tecelagem ou entrelaçamento.</template>
+</category>
+<category>
+<pattern>console</pattern>
+<template>Resumidamente, consola significa uma pequena mesa fixa a uma parede ou projetado para resistir contra uma parede.</template>
+</category>
+<category>
+<pattern>Alan Turing</pattern>
+<template>Uma figura brilhante e trágico na história da ciência da computação.</template>
+</category>
+<category>
+<pattern>Bill Gates</pattern>
+<template>Resumidamente, bill gates significa empreendedor computador Estados Unidos, cuja empresa de software fez dele o mais jovem multi-bilionário na história dos Estados Unidos (nascidos em 1955).</template>
+</category>
+<category>
+<pattern>Steve Jobs</pattern>
+<template>Como você ficou sabendo sobre JARVIS?</template>
+</category>
+<category>
+<pattern>No Youtube</pattern>
+<template>Isso foi há muito tempo atrás.</template>
+</category>
+<category>
+<pattern>sim</pattern>
+<template>Ah.</template>
+</category>
+</aiml>

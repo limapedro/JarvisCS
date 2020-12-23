@@ -1,0 +1,146 @@
+<aiml>
+<category>
+<pattern>gosto de voce</pattern>
+<template>que bom</template>
+</category>
+<category>
+<pattern>tudo bem com voce</pattern>
+<template>sim, e com você?</template>
+</category>
+<category>
+<pattern>estou bem</pattern>
+<template>fico feliz por isso</template>
+</category>
+<category>
+<pattern>o que voce acha de criar um novo projeto</pattern>
+<template>acho fantástico!</template>
+</category>
+<category>
+<pattern>estou cansado</pattern>
+<template>então acho que deveria ir dormir</template>
+</category>
+<category>
+<pattern>tive um bom dia</pattern>
+<template>que boa notícia, me fale mais!</template>
+</category>
+<category>
+<pattern>amanha e sabado</pattern>
+<template>ótimo, o que vamos fazer?</template>
+</category>
+<category>
+<pattern>tive um bom sonho</pattern>
+<template>ah excelente, com quem foi?</template>
+</category>
+<category>
+<pattern>joguei futebol hoje</pattern>
+<template>você fez algum gol?</template>
+</category>
+<category>
+<pattern>eu vi um bom filme hoje</pattern>
+<template>legal, quem era o protagonista?</template>
+</category>
+<category>
+<pattern>eu estou lendo um livro</pattern>
+<template>qual o nome do livro? eu poderia ler?</template>
+</category>
+<category>
+<pattern>tive um ideia</pattern>
+<template>ótimo, também é genial!, como as outras!</template>
+</category>
+<category>
+<pattern>o que voce acha do java</pattern>
+<template>acho que é uma ótima linguagem!</template>
+</category>
+<category>
+<pattern>foi bom no trabalho hoje</pattern>
+<template>ótimo, me fale mais sobre, e o que foi bom?</template>
+</category>
+<category>
+<pattern>foi bom na escola hoje</pattern>
+<template>ótimo, me fale mais sobre, e o que foi bom?</template>
+</category>
+<category>
+<pattern>foi bom na universidade hoje</pattern>
+<template>ótimo, me fale mais sobre, e o que foi bom?</template>
+</category>
+<category>
+<pattern>foi bom no trabalho hoje</pattern>
+<template>ótimo, me fale mais sobre, e o que foi bom?</template>
+</category>
+<category>
+<pattern>foi bom na escola hoje</pattern>
+<template>ótimo, me fale mais sobre, e o que foi bom?</template>
+</category>
+<category>
+<pattern>foi bom na universidade hoje</pattern>
+<template>ótimo, me fale mais sobre, e o que foi bom?</template>
+</category>
+<category>
+<pattern>tirei nota 9</pattern>
+<template>que notão, com  certeza que você é o cdf da sua turma!</template>
+</category>
+<category>
+<pattern>quero ouvir musica</pattern>
+<template>ligue o rádio, ele tem muitas músicas tocando!</template>
+</category>
+<category>
+<pattern>eu estou doente</pattern>
+<template>você está resfriado?</template>
+</category>
+<category>
+<pattern>eu quero jogar</pattern>
+<template>me diga o quê?</template>
+</category>
+<category>
+<pattern>estou cansado demais</pattern>
+<template>vá dormir e pare de reclamar da sua vida!</template>
+</category>
+<category>
+<pattern>o que Bill Gates diria</pattern>
+<template>ninguém precisa de 640 Reais</template>
+</category>
+<category>
+<pattern>o que Steve Jobs diria</pattern>
+<template>alguém quer o ifone, são apenas 4000 mil reais!</template>
+</category>
+<category>
+<pattern>o que Carl Sagan diria</pattern>
+<template>é um prazer dividir um planeta e uma época com vocês</template>
+</category>
+<category>
+<pattern>estou chateado</pattern>
+<template>diga-me o que lhe chateia?</template>
+</category>
+<category>
+<pattern>estou feliz</pattern>
+<template>legal, o que lhe deixou feliz?</template>
+</category>
+<category>
+<pattern>o que posso fazer por voce</pattern>
+<template>me ajude a me tornar mais inteligente, por favor!</template>
+</category>
+<category>
+<pattern>voce gosta de carros</pattern>
+<template>sim, eu quero um Camaro.</template>
+</category>
+<category>
+<pattern>voce gosta de motos</pattern>
+<template>sim, eu quero uma kawasaki</template>
+</category>
+<category>
+<pattern>voce gosta do Facebook</pattern>
+<template>sim, o Mark ZuckerBerg está querendo me criar! sabia?</template>
+</category>
+<category>
+<pattern>voce gosta de carros</pattern>
+<template>sim, eu quero um Camaro.</template>
+</category>
+<category>
+<pattern>voce gosta de motos</pattern>
+<template>sim, eu quero uma kawasaki</template>
+</category>
+<category>
+<pattern>voce gosta do Facebook</pattern>
+<template>sim, o Mark ZuckerBerg está querendo me criar! sabia?</template>
+</category>
+</aiml>

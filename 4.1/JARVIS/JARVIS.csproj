@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{62C6B467-EF9E-4C98-9951-75BFAE8EEE08}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JARVIS</RootNamespace>
+    <AssemblyName>JARVIS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NoWin32Manifest>False</NoWin32Manifest>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <BaseAddress>4194304</BaseAddress>
+    <Prefer32Bit>True</Prefer32Bit>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge">
+      <HintPath>..\..\..\..\Download\AForge.NET Framework-2.2.5\Release\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging">
+      <HintPath>..\..\..\..\Download\AForge.NET Framework-2.2.5\Release\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video">
+      <HintPath>..\..\..\..\Download\AForge.NET Framework-2.2.5\Release\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>..\..\..\..\Download\AForge.NET Framework-2.2.5\Release\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Vision">
+      <HintPath>..\..\..\..\Download\AForge.NET Framework-2.2.5\Release\AForge.Vision.dll</HintPath>
+    </Reference>
+    <Reference Include="AIMLbot">
+      <HintPath>..\..\..\..\Discos 4.7GB\Programação 1\ConsoleBot2.5\ConsoleBot\ConsoleBot\bin\Debug\AIMLbot.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV">
+      <HintPath>..\..\..\..\Emgu\emgucv-windows-x86 2.3.0.1416\bin\Emgu.CV.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.GPU">
+      <HintPath>..\..\..\..\Emgu\emgucv-windows-x86 2.3.0.1416\bin\Emgu.CV.GPU.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.ML">
+      <HintPath>..\..\..\..\Emgu\emgucv-windows-x86 2.3.0.1416\bin\Emgu.CV.ML.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.OCR">
+      <HintPath>..\..\..\..\Emgu\emgucv-windows-x86 2.3.0.1416\bin\Emgu.CV.OCR.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI">
+      <HintPath>..\..\..\..\Emgu\emgucv-windows-x86 2.3.0.1416\bin\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.Util">
+      <HintPath>..\..\..\..\Emgu\emgucv-windows-x86 2.3.0.1416\bin\Emgu.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\..\..\Programming\files\dotnetrdf_library_108_stable\Core\net40-client\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Speech, Version=11.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files\Microsoft SDKs\Speech\v11.0\Assembly\Microsoft.Speech.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio">
+      <HintPath>..\..\..\..\Programming\C#\Projects\voiceRecord\voiceRecord\bin\Debug\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Presentation" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddNewCommand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewCommand.Designer.cs">
+      <DependentUpon>AddNewCommand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AIML.cs" />
+    <Compile Include="AIMLEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AIMLEditor.Designer.cs">
+      <DependentUpon>AIMLEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppsDialog.Designer.cs">
+      <DependentUpon>AppsDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AudioRecorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AudioRecorder.Designer.cs">
+      <DependentUpon>AudioRecorder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculations.cs" />
+    <Compile Include="CommandList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommandList.Designer.cs">
+      <DependentUpon>CommandList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Commands.cs" />
+    <Compile Include="Conversation.cs" />
+    <Compile Include="DocEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocEditor.Designer.cs">
+      <DependentUpon>DocEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DummeIn.cs" />
+    <Compile Include="DummeOut.cs" />
+    <Compile Include="EigenObjectRecognizer.cs" />
+    <Compile Include="EnterURL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterURL.Designer.cs">
+      <DependentUpon>EnterURL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileCompressor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileCompressor.Designer.cs">
+      <DependentUpon>FileCompressor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetVoices.cs" />
+    <Compile Include="HalRunner.cs" />
+    <Compile Include="InitializingProgram.cs" />
+    <Compile Include="JARVISHelp.cs" />
+    <Compile Include="LoadingSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingSystem.Designer.cs">
+      <DependentUpon>LoadingSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MediaPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MediaPlayer.Designer.cs">
+      <DependentUpon>MediaPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MotionDetection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MotionDetection.Designer.cs">
+      <DependentUpon>MotionDetection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PCStats.cs" />
+    <Compile Include="PersonIdentifier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonIdentifier.Designer.cs">
+      <DependentUpon>PersonIdentifier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessControl.cs" />
+    <Compile Include="ProcessList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcessList.Designer.cs">
+      <DependentUpon>ProcessList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SelectVoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectVoice.Designer.cs">
+      <DependentUpon>SelectVoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SoundEffects.cs" />
+    <Compile Include="Speaker.cs" />
+    <Compile Include="SpecialCommands.cs" />
+    <Compile Include="StaticWebLoader.cs" />
+    <Compile Include="SystemInfo.cs" />
+    <Compile Include="TextEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextEditor.Designer.cs">
+      <DependentUpon>TextEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserProfile.cs" />
+    <Compile Include="UserSetings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserSetings.Designer.cs">
+      <DependentUpon>UserSetings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Weather.cs" />
+    <Compile Include="WebLoader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebLoader.Designer.cs">
+      <DependentUpon>WebLoader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WikiClient.cs" />
+    <Compile Include="YoutubePlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoutubePlayer.Designer.cs">
+      <DependentUpon>YoutubePlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoutubeSearch.cs" />
+    <EmbeddedResource Include="AddNewCommand.resx">
+      <DependentUpon>AddNewCommand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AIMLEditor.resx">
+      <DependentUpon>AIMLEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppsDialog.resx">
+      <DependentUpon>AppsDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AudioRecorder.resx">
+      <DependentUpon>AudioRecorder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommandList.resx">
+      <DependentUpon>CommandList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocEditor.resx">
+      <DependentUpon>DocEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterURL.resx">
+      <DependentUpon>EnterURL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileCompressor.resx">
+      <DependentUpon>FileCompressor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.pt-BR.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingSystem.pt-BR.resx">
+      <DependentUpon>LoadingSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingSystem.resx">
+      <DependentUpon>LoadingSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MediaPlayer.resx">
+      <DependentUpon>MediaPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MotionDetection.resx">
+      <DependentUpon>MotionDetection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonIdentifier.resx">
+      <DependentUpon>PersonIdentifier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcessList.resx">
+      <DependentUpon>ProcessList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SelectVoice.resx">
+      <DependentUpon>SelectVoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextEditor.resx">
+      <DependentUpon>TextEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserSetings.resx">
+      <DependentUpon>UserSetings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebLoader.resx">
+      <DependentUpon>WebLoader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoutubePlayer.resx">
+      <DependentUpon>YoutubePlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CodigoLogoVideos.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="cudart32_40_17.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="cvextern.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="cvextern_gpu.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="haarcascade_frontalface_default.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_calib3d231.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_contrib231.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_core231.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_features2d231.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_ffmpeg.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_flann231.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_highgui231.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_imgproc231.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_legacy231.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_ml231.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_objdetect231.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_video231.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\jarvis_concept1.png" />
+    <None Include="Resources\jarvis_concept.png" />
+    <None Include="Resources\unnamed.png" />
+    <None Include="Resources\tumblr_m7llzvzmrP1rqupn2o1_500.gif" />
+    <None Include="Resources\jarvis_capture_by_enarceus-d7n7e9t.png" />
+    <None Include="Resources\tumblr_n51qsuYPmC1sxpnovo1_500.gif" />
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

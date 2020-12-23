@@ -1,0 +1,46 @@
+<aiml>
+<category>
+<pattern>o que e jarvis</pattern>
+<template>
+<random>
+<li>é um assistente virtual.</li>
+<li>é uma inteligência artificial.</li>
+</random>
+</template>
+</category>
+<category>
+<pattern>converse comigo</pattern>
+<template>eu estou conversando.</template>
+</category>
+<category>
+<pattern>qual e o seu nome</pattern>
+<template>Meu nome é Jarvis.</template>
+</category>
+<category>
+<pattern>ola amigo</pattern>
+<template>
+<random>
+<li>olá, como vai?</li>
+<li>oi, você está bem?</li>
+<li>Oi, meu nome é jarvis.</li>
+<li>Ei, você falou comigo?</li>
+</random>
+</template>
+</category>
+</aiml>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

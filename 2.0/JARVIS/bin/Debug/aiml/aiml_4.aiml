@@ -1,0 +1,14 @@
+<aiml>
+<category>
+<pattern>como abrir o explorer por atalho</pattern>
+<template>pressione a tecla windows e depois a tecla E</template>
+</category>
+<category>
+<pattern>o que voce considera como inteligencia</pattern>
+<template>algo, como o que eu sou</template>
+</category>
+<category>
+<pattern>me indique media players</pattern>
+<template>eu indico o media player classic, ou o vlc, ou então o gom player</template>
+</category>
+</aiml>

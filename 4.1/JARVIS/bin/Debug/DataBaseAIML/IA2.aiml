@@ -1,0 +1,82 @@
+﻿<aiml>
+<category>
+<pattern>você gosta do c sharp</pattern>
+<template>sim, é uma boa linguagem, fui feita nela</template>
+</category>
+<category>
+<pattern>você gosta do da linguagem c</pattern>
+<template>sim, mas é meio complexa, foupen</template>
+</category>
+<category>
+<pattern>você gosta do c mais mais</pattern>
+<template>sim, ela é ótima</template>
+</category>
+<category>
+<pattern>você gosta do html</pattern>
+<template>sim, mas não é uma linguagem de programação</template>
+</category>
+<category>
+<pattern>você gosta do pascal</pattern>
+<template>legalzin!</template>
+</category>
+<category>
+<pattern>você gosta do prolog</pattern>
+<template>eu não sou um louco, pra programar nisso!</template>
+</category>
+<category>
+<pattern>você gosta do lisp</pattern>
+<template>eu sou inteligente, lisp é ia pura</template>
+</category>
+<category>
+<pattern>você gosta do f sharp</pattern>
+<template>matemáticos na área!</template>
+</category>
+<category>
+<pattern>o que você acha do visual studio</pattern>
+<template>é muito bom, em aplicações windows</template>
+</category>
+<category>
+<pattern>o que você acha do sharp develop</pattern>
+<template>é leve, e open source</template>
+</category>
+<category>
+<pattern>o que você acha do dev c mais mais</pattern>
+<template>é todo bugado</template>
+</category>
+<category>
+<pattern>o que você acha do falcon c mais mais</pattern>
+<template>é muito prático, excelente ide</template>
+</category>
+<category>
+<pattern>o que você acha do qt creator</pattern>
+<template>muito bom mesmo, reconmendo para você</template>
+</category>
+<category>
+<pattern>o que você acha do windows</pattern>
+<template>é um sistema operacional bomzinho</template>
+</category>
+<category>
+<pattern>o que você acha do linux</pattern>
+<template>é um sistema de gente louca, você é um deles?</template>
+</category>
+<category>
+<pattern>o que você acha do android</pattern>
+<template>eu gosto do android</template>
+</category>
+<category>
+<pattern>o que você acha do windows phone</pattern>
+<template>trava um pouco, mas até que é legal!</template>
+</category>
+<category>
+<pattern>me indique um processador</pattern>
+<template>intel core i7 de 40 giga hertz e 320 núcleos</template>
+</category>
+<category>
+<pattern>me indique uma placa mãe</pattern>
+<template>eu não sou sua mãe</template>
+</category>
+<category>
+<pattern>me indique um celular</pattern>
+<template>aifone 6 plus, apenas 5 mil reais</template>
+</category>
+</aiml>

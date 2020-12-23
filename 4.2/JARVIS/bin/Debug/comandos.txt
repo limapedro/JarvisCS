@@ -1,0 +1,1 @@
+﻿site#google#http://www.google.com.br$site#baixaki#http://www.baixaki.com$site#superdownloads#http://www.superdownloads.com.br$site#bing#http://www.bing.com$site#facebook#http://www.facebook.com.brsite#Youtube#http://www.youtube.com$

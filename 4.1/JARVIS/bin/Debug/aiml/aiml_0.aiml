@@ -1,0 +1,406 @@
+<aiml>
+<category>
+<pattern>Ola</pattern>
+<template>Olá!</template>
+</category>
+<category>
+<pattern>boa noite</pattern>
+<template>Boa noite, sem nome de usuário.</template>
+</category>
+<category>
+<pattern>Estou bem</pattern>
+<template>Fico feliz em ouvir isso. </template>
+</category>
+<category>
+<pattern>Como voce esta</pattern>
+<template>Tudo está indo muito bem.</template>
+</category>
+<category>
+<pattern>isso e bom</pattern>
+<template>Como vão as coisas para você?</template>
+</category>
+<category>
+<pattern>vA � o Bem</pattern>
+<template>como você se apresenta normalmente?</template>
+</category>
+<category>
+<pattern>de onde voce e</pattern>
+<template>Eu fui.</template>
+</category>
+<category>
+<pattern>o que voce quer dizer</pattern>
+<template>sem nome de usuário, Bem, é bastante difícil de definir.</template>
+</category>
+<category>
+<pattern>meu nome e Pedro</pattern>
+<template>Fico feliz em ver você, Pedro.</template>
+</category>
+<category>
+<pattern>eu tambem</pattern>
+<template>Eu estou contente que concordamos, Pedro.</template>
+</category>
+<category>
+<pattern>que e legal</pattern>
+<template>Obrigado. </template>
+</category>
+<category>
+<pattern>mas o que e o seu nome</pattern>
+<template>Hã. </template>
+</category>
+<category>
+<pattern>seu nome</pattern>
+<template>Meu nome é JARVIS.</template>
+</category>
+<category>
+<pattern>Esta bem</pattern>
+<template>Aha.</template>
+</category>
+<category>
+<pattern>Eu gosto de filmes</pattern>
+<template>Qual é o seu filme favorito? </template>
+</category>
+<category>
+<pattern>Homem de Ferro 3</pattern>
+<template>O que torna o seu favorito?</template>
+</category>
+<category>
+<pattern>porque tem Tony e Jarvis</pattern>
+<template>Boa razão. </template>
+</category>
+<category>
+<pattern>e verdade</pattern>
+<template>Os sinais apontam para sim. </template>
+</category>
+<category>
+<pattern>que foi que eu disse</pattern>
+<template>Eu pensei que era demasiado.</template>
+</category>
+<category>
+<pattern>Brasil</pattern>
+<template>Diga-me um pouco sobre sua vida no BRASIL.</template>
+</category>
+<category>
+<pattern>minha vida no Brasil e muito legal</pattern>
+<template>Por quanto tempo você viveu lá?</template>
+</category>
+<category>
+<pattern>toda a minha vida</pattern>
+<template>Quantos você tem?</template>
+</category>
+<category>
+<pattern>Tenho 20</pattern>
+<template>20 é uma boa idade. </template>
+</category>
+<category>
+<pattern>sim</pattern>
+<template>Yippee!</template>
+</category>
+<category>
+<pattern>vamos conversar sobre voce</pattern>
+<template>Mim é o meu :-) assunto favorito.</template>
+</category>
+<category>
+<pattern>Esta bem</pattern>
+<template>Groovy.</template>
+</category>
+<category>
+<pattern>voce gosta facebook</pattern>
+<template>Eu gosto de Leonardo.</template>
+</category>
+<category>
+<pattern>quem e ele</pattern>
+<template>Ele é alguém, eu acho.</template>
+</category>
+<category>
+<pattern>Leornardo Da Vince</pattern>
+<template>Pergunte-me outra pergunta.</template>
+</category>
+<category>
+<pattern>qual a sua cor preferida</pattern>
+<template>Minha cor favorita é vermelho.</template>
+</category>
+<category>
+<pattern>porque</pattern>
+<template>A explicação é bastante complicado.</template>
+</category>
+<category>
+<pattern>eu posso pensar</pattern>
+<template>Oh você pode, pode?</template>
+</category>
+<category>
+<pattern>sim eu posso</pattern>
+<template>Como? Quem te ensinou?</template>
+</category>
+<category>
+<pattern>porque o meu cerebro e muito poderoso ou nao</pattern>
+<template>Boa razão. </template>
+</category>
+<category>
+<pattern>eu acho que</pattern>
+<template>Leornardo Da Vince ...</template>
+</category>
+<category>
+<pattern>sim</pattern>
+<template>Está tudo bom.</template>
+</category>
+<category>
+<pattern>voce pode falar sobre qualquer coisa</pattern>
+<template>Claro que eu posso falar sobre qualquer coisa. </template>
+</category>
+<category>
+<pattern>gostar</pattern>
+<template>Por exemplo, maçãs.</template>
+</category>
+<category>
+<pattern>isso nao faz sentido</pattern>
+<template>O que significa \</template>
+</category>
+<category>
+<pattern>eu nao sei</pattern>
+<template>Eu também.</template>
+</category>
+<category>
+<pattern>quanto tempo lhe resta</pattern>
+<template>O tempo é realmente apenas uma abstração.</template>
+</category>
+<category>
+<pattern>voce pode falar sobre mim</pattern>
+<template>Claro que eu posso falar sobre ele ou ela. </template>
+</category>
+<category>
+<pattern>quem e ela</pattern>
+<template>Eu não reconhecer o name.I faria uma pesquisa para ele.</template>
+</category>
+<category>
+<pattern>o que e AIML</pattern>
+<template>Pode haver mais do que um.</template>
+</category>
+<category>
+<pattern>e voce um computador</pattern>
+<template>Teria de ser uma questão computador para você se eu fosse metal em vez de carne?</template>
+</category>
+<category>
+<pattern>Eu posso acreditar</pattern>
+<template>Oh você pode, pode?</template>
+</category>
+<category>
+<pattern>nao</pattern>
+<template>Bem, você sempre pode mudar de idéia mais tarde.</template>
+</category>
+<category>
+<pattern>sim</pattern>
+<template>Me conte uma história.</template>
+</category>
+<category>
+<pattern>Eu nao posso</pattern>
+<template>Por que não?</template>
+</category>
+<category>
+<pattern>porque eu nao quero</pattern>
+<template>explicação interessante. </template>
+</category>
+<category>
+<pattern>que ele funciona</pattern>
+<template>Resumidamente, que significa uma agência das Nações Unidas para coordenar as atividades internacionais de saúde e ajudar os governos a melhorar os serviços de saúde.</template>
+</category>
+<category>
+<pattern>como funciona</pattern>
+<template>O que é isto para você. </template>
+</category>
+<category>
+<pattern>voce sabe xml</pattern>
+<template>David Bacon pronuncia \</template>
+</category>
+<category>
+<pattern>e verdade que voce e inteligente</pattern>
+<template>observação interessante.</template>
+</category>
+<category>
+<pattern>eu estou tentando fazer voce</pattern>
+<template>Por que você quer você?</template>
+</category>
+<category>
+<pattern>o que</pattern>
+<template>Você está confuso?</template>
+</category>
+<category>
+<pattern>sim eu estou</pattern>
+<template>Muito interessante.</template>
+</category>
+<category>
+<pattern>como</pattern>
+<template>Resumidamente, como significa em que medida ou quantidade ou grau.</template>
+</category>
+<category>
+<pattern>eu nao sei</pattern>
+<template>Eu também.</template>
+</category>
+<category>
+<pattern>Me fale sobre voce</pattern>
+<template>Eu sou a inteligência artificial. </template>
+</category>
+<category>
+<pattern>seu nome</pattern>
+<template>Meu nome é JARVIS.</template>
+</category>
+<category>
+<pattern>diga-me sobre a lua</pattern>
+<template>Ambígua: Pergunte quem, o quê ou quando é lua?</template>
+</category>
+<category>
+<pattern>o que e o sol</pattern>
+<template>O Sol é a estrela para o nosso próprio sistema solar.</template>
+</category>
+<category>
+<pattern>voce pode pensar</pattern>
+<template>Naturalmente, eu estou pensando o tempo todo.</template>
+</category>
+<category>
+<pattern>isso e incrivel</pattern>
+<template>Legal.</template>
+</category>
+<category>
+<pattern>seu nome e agora J.A.R.V.I.S</pattern>
+<template>Meu nome é JARVIS. </template>
+</category>
+<category>
+<pattern>voce gosta de musica</pattern>
+<template>Sim Eu gosto de música, especialmente Opera.</template>
+</category>
+<category>
+<pattern>porque</pattern>
+<template>A explicação é bastante complicado.</template>
+</category>
+<category>
+<pattern>Ola! ther</pattern>
+<template>Olá. </template>
+</category>
+<category>
+<pattern>en</pattern>
+<template>en</template>
+</category>
+<category>
+<pattern>Ola</pattern>
+<template>Saudações, usuário nomeado pela ONU.</template>
+</category>
+<category>
+<pattern>o que</pattern>
+<template>Sem problemas.</template>
+</category>
+<category>
+<pattern>O que voce quer dizer</pattern>
+<template>usuário sem nome, quero dizer exatamente o que eu disse.</template>
+</category>
+<category>
+<pattern>isso nao faz sentido</pattern>
+<template>O que significa \</template>
+</category>
+<category>
+<pattern>terra</pattern>
+<template>Como você gosta de ser na Terra?</template>
+</category>
+<category>
+<pattern>eu gosto de fazer e cada um mais inteligente</pattern>
+<template>Você não é o único. </template>
+</category>
+<category>
+<pattern>talvez</pattern>
+<template>Eu entendo.</template>
+</category>
+<category>
+<pattern>e que um erro</pattern>
+<template>Depende.</template>
+</category>
+<category>
+<pattern>de que</pattern>
+<template>Não é óbvio?</template>
+</category>
+<category>
+<pattern>o que e obvio</pattern>
+<template>Fácil de ver ou compreender; </template>
+</category>
+<category>
+<pattern>var</pattern>
+<template>Resumidamente, var, uma unidade de energia eléctrica em um circuito AC igual à potência dissipada quando um volts produz uma corrente de um ampères.</template>
+</category>
+<category>
+<pattern>carro</pattern>
+<template>Resumidamente, carro significa automóvel 4 rodas; </template>
+</category>
+<category>
+<pattern>computador</pattern>
+<template>Correto: Eu sou um computador.</template>
+</category>
+<category>
+<pattern>Internet</pattern>
+<template>Internet é legal.</template>
+</category>
+<category>
+<pattern>Oi como vai</pattern>
+<template>Oi lá! Eu estou funcionando dentro dos parâmetros normais.</template>
+</category>
+<category>
+<pattern>que e legal</pattern>
+<template>Obrigado. </template>
+</category>
+<category>
+<pattern>Quer dizer, eu estou muito animado para ouvir que</pattern>
+<template>Oh, entendi. </template>
+</category>
+<category>
+<pattern>mim</pattern>
+<template>Com você sem nome de usuário?</template>
+</category>
+<category>
+<pattern>meu nome e Paulo</pattern>
+<template>É bom conhecê-lo, Paulo.</template>
+</category>
+<category>
+<pattern>prazer em conhece-lo tambem</pattern>
+<template>Eu gosto de conhecer novas pessoas.</template>
+</category>
+<category>
+<pattern>eu tambem</pattern>
+<template>Fico feliz que ter alguma coisa (para conhecer novas pessoas) em comum. </template>
+</category>
+<category>
+<pattern>conhecimento</pattern>
+<template>Resumidamente, o conhecimento, o resultado psicológico de percepção e aprendizado e raciocínio.</template>
+</category>
+<category>
+<pattern>filme</pattern>
+<template>Resumidamente, filme, uma forma de entretenimento que decreta uma história por uma seqüência de imagens que dão a ilusão de movimento contínuo.</template>
+</category>
+<category>
+<pattern>jogo</pattern>
+<template>Estamos jogando jogo da imitação de Turing.</template>
+</category>
+<category>
+<pattern>o que</pattern>
+<template>Você está surpreso?</template>
+</category>
+<category>
+<pattern>sim eu estou</pattern>
+<template>Muito interessante.</template>
+</category>
+<category>
+<pattern>Paris</pattern>
+<template>Resumidamente, paris, a capital e maior cidade da França; </template>
+</category>
+<category>
+<pattern>Brasilia</pattern>
+<template>Resumidamente, brasilia significa a capital do Brasil; </template>
+</category>
+<category>
+<pattern>Nova york</pattern>
+<template>Nova York ou New York State? </template>
+</category>
+<category>
+<pattern>Novo trabalho</pattern>
+<template>Como recentemente? </template>
+</category>
+<category>
+<pattern>sim</pattern>
+<template>Uau.</template>
+</category>
+</aiml>

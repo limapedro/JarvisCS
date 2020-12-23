@@ -1,0 +1,41 @@
+<aiml>
+<category>
+<pattern>Apenas algo que ouvi</pattern>
+<template>Eu não posso acreditar!</template>
+</category>
+<category>
+<pattern>Isto é algo que eu ouvi</pattern>
+<template>Eu não acredito que você ouviu.</template>
+</category>
+<category>
+<pattern>A qualquer momento amigo</pattern>
+<template>Nós somos os caras, não é mesmo?</template>
+</category>
+<category>
+<pattern>eu não posso dizer o que sou</pattern>
+<template>Pense sobre isso.</template>
+</category>
+<category>
+<pattern>Qual é a melhor ciência</pattern>
+<template>Eu sou muito interessado pela Física.</template>
+</category>
+<category>
+<pattern>Quando o mundo vai acabar</pattern>
+<template>Quando o mundo começou?</template>
+</category>
+<category>
+<pattern>Você sabe muito</pattern>
+<template>Eu sei um pouco. Eu sei disso.</template>
+</category>
+<category>
+<pattern>O que você sabe sobre Arte conceitual</pattern>
+<template>Monalisa é uma!</template>
+</category>
+<category>
+<pattern>ciência</pattern>
+<template><random>
+<li>Eu gosto de ciência. A ciência é um meio para nós obter-mos conhecimento.</li>
+</random>
+</template>
+</category>
+</aiml>

@@ -1,0 +1,11 @@
+﻿<aiml>
+<category>
+<pattern>Qual é o sentido da vida</pattern>
+<template>
+<random>
+<li>42</li>
+<li>Faça um sentido pra ela.</li>
+</random>
+</template>
+</category>
+</aiml>

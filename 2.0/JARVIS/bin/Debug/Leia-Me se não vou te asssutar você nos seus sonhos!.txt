@@ -1,0 +1,45 @@
+
+Projeto JARVIS por Pedro Lima
+
+Olá seja bem-vindo ao "EULA" do JARVIS, nem sei o que é isso, mas vamos lá, primeiro quero dizer que esse é o primeiro passo rumo ao JARVIS, essa build ainda é bem básica, mas já têm alguns comandos, e é mais para termos uma melhor ideia do que queremos no JARVIS, ah e JARVIS é a sigla para "Jogo do Add Reamente é Viral na Internet Saporr@", kidding guys, bem ainda não pensei na sigla para JARVIS, mas não pode ser "Justa A Rather Very Intelligent System" pessoal, isso é da Marvel, mas seguindo adiante, espero que gostem desta build, antes de mais nada quero agradecer por estar lendo esta bagaça, bem o meu nom é bem comum, mas não me importo, procure ai no Youtube "pedro lima c#", que você certamente irá encontrar o meu canal, ou não,  contribua com suas ideias, infelizmente o autor desta bagaça não tem nada de criativo na mente, é um débil mental, no entanto, porém, todavia, o JARVIS, poderá ajudar muitas pessoas, assim como ele, quem?, o editor deste texto ora!
+
+Vamos intender o que o JARVIS já tem!
+°Reconhecimento de voz
+°Falta ele ser um gênio, como o HAl, o (char)(int)I - 1(char)(int)B - 1(char)(int)M - 1, IBM tá!!
+°Síntesi de voz
+°Interface maneira feita por um cara que não manja de Windows Forms
+°East-Eggs! Mentira!!!
+°Totalmente em português, exceto os 2126 métodos e 396 classes com nome em inglês
+°Não tem senso de humor, ainda está sendo desenvolvido
+°Não tem intelgência, exceto, COM fatal exception! AI not found!
+°Já disse que ele não é inteligente
+
+
+O que falta pro JARVIS
+°Inteligência
+°2597548 métodos que vão executar tarefas
+°Toda a wikipédia, espera um pouco, isso ele já tem, falta saber usar
+
+
+Em que você pode ajudar
+°Divulgue o canal para os seus amigos
+°Fale sobre o JARVIS para os seus amigos nerds, tá eu sei que você é um nerd!!!
+°Impressione sua namorada mostrando o código do JARVIS no Visual Studio com tema Dark, pode ser no Visual Studio 2012, ou superior, para deixar ela com a impressão de que você é um gênio da programação. Deixe uma música de fundo tipo Awolnation - Sail, para dar aquele clima de filme de ficção, onde o cara consegue ficar com a mina, tipo Transformers, ah Megan Fox, espera ai pessoal vou ali no banheiro, 10 minutos depois... voltei. bem faça isso, ou ela vai te dar um fora por te achar muito nerdão, ou vai ficar na sua ainda mais.
+°Curta nossa página no Facebook, e mande todo mundo curtir, a sua mãe, a sua tia, a sua tia chata, os seus primos, irmãos, meio-irmãos e irmãs, e até os mendigos da sua rua, sim, eles têm Facebook, e são mais populadores do que você!
+°Crie algum arquivo de texto com 63999 linhas, 10325568s caracteres e de exatamante 3.96 Kb em 7-Zip.
+
+Now! Speaking sério
+°Crie um arquivo de texto, comente nos vídeos o que você que está errdo, o que pode melhorar, teste o JARVIS, faça alterações, divulgue o canal, é isso é sério!, curta a página, entre no codigoShare para compartilhar códigos e ver também, você deve se perguntar o que é codigoShare, bem pessoal, é um grupo do Facebook com foco no CTRL+V dos códigos tá, kidding again, lá tem arquivos pra baixar, vamos montar um acervo de filmes por##@# lá bem legal, digo! de códigos bem legal.
+°Comente com seus amigos, amigos que não vão rir da sua cara quando estiver falando com o PC e ele responder, "não entendi", beleza?, e mande links dos vídeos para eles também, do canal do Pedro Lima, claro, mas pode mandar de outros também.
+°Se você  for programador, engenheiro de software, cientista da computação, computista, ou mesmo o garoto que entende de computadores, você pode fazer alterações e compartilhar com o pessoal, e receber um Nodel da LGPL, ou não.
+°Mande mensagens para mim, não o texto que você estar lendo, eu, PedroLimaGostosão@gmail.com, não brinca!, mande mensagem no grupo codigoShare, comente os vídeos, enfim, ajude o resto do pessoal.
+°Faça uso dos erros, para ajudar no combate das pragas da programação, os chamandos "Bugs", assim que um erro ocorrer, anote o erro, e qual era o comando que devia, mas por erro do programador por trás do código não foi executado, e avise o pessoal.
+
+Melhoramentos possíveis
+O que pode ser melhorado no JARVIS, é, são tudo, sim, tudo basta apenas traduzir ideias em código, usando cafê, algumas dezenas de teclados, e um 45 MegaWatts.
+O que devo fazer?
+°Crie algum arquivo de texto, pode ser ideias, comandos, frases, conversas, enfim qualquer coisa que se assemelhe a loucora total.
+°Acompanhe os vídeos do canal, o pessoal que compartilhar ideias, receberá os devidos créditos.
+
+Bem pessoal esse arquivo chega ao fim, para não ser tão chato a leitura da EULASQUEI-ME, usei de humor humorístico, espero que gostem, se inscrevam no canal, deêm like em todos os vídeos!!! Não é obrigatório, mas se puder fazer isso vou ficar feliz.
+Boa sorte para todos, e o prazo esperado é ter algo no PC bem massa até Guerra Infinita!! Spoiler!!!

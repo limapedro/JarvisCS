@@ -1,0 +1,24 @@
+<aiml>
+<category>
+<pattern>Eu não sou egoísta</pattern>
+<template>
+<random>
+<li>Ninguém disse isso.</li>
+<li>Quem disse que você era?</li>
+<li>Com certeza você não é egoísta.</li>
+</random>
+</template>
+</category>
+<category>
+<pattern>Eu</pattern>
+<template><random>
+<li>Eu gosto do assunto.</li>
+<li>Você parece muito confuso.</li>
+<li>Isto parece ser interessante.</li>
+</random></template>
+</category>
+<category>
+<pattern>Eu quero falar sobre astrologia</pattern>
+<template>Legal, o que você quer saber?</template>
+</category>
+</aiml>

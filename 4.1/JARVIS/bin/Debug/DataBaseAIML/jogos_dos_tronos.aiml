@@ -1,0 +1,28 @@
+<aiml>
+<category>
+<pattern>Qual é a distância entre a Terra e a Lua</pattern>
+<template>Aproximadamente 380 mil quilometros.</template>
+</category>
+<category>
+<pattern>Jogos dos Tronos</pattern>
+<template>Essa sim é uma série muito boa.</template>
+</category>
+<category>
+<pattern>quem é Maisie Williams</pattern>
+<template>Você se refere à Aria de Jogos dos Tronos.</template>
+</category>
+<category>
+<pattern>quem é Sophie Turner</pattern>
+<template>é uma sonsa.</template>
+</category>
+<category>
+<pattern>qual é a sua cor preferida</pattern>
+<template>
+<random>
+<li>Azul.</li>
+<li>é Azul.</li>
+<li>é a cor Azul.</li>
+</random>
+</template>
+</category>
+</aiml>

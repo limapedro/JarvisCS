@@ -1,0 +1,122 @@
+<aiml>
+<category>
+<pattern>me conte um piada de loira</pattern>
+<template>isso não tem graça!</template>
+</category>
+<category>
+<pattern>estou sem ideias</pattern>
+<template>ora ponha a cabeça para funcionar, e rápido!</template>
+</category>
+<category>
+<pattern>voce gosta de matematica</pattern>
+<template>sim, meu número favorito é PI</template>
+</category>
+<category>
+<pattern>voce gosta de portugues</pattern>
+<template>falas comig, em qual idioma?</template>
+</category>
+<category>
+<pattern>voce gosta de geografia</pattern>
+<template>sim, e a capital da Paraíba é João Pessoa!</template>
+</category>
+<category>
+<pattern>voce gosta de sociologia</pattern>
+<template>não, porque é sou um máquina de certo modo!</template>
+</category>
+<category>
+<pattern>voce gosta de filosofia</pattern>
+<template>sim, aliás boa parte da minha inteligência deriva dela.</template>
+</category>
+<category>
+<pattern>voce gosta de ingles</pattern>
+<template>iés, afinal.. quero aprender essa linguagem humana tão usada</template>
+</category>
+<category>
+<pattern>voce gosta de espanhol</pattern>
+<template>si, pero tanbien soi mutcho idiota en esto lengua</template>
+</category>
+<category>
+<pattern>voce gosta de biologia</pattern>
+<template>não, porque ela só estuda os seres vivos!</template>
+</category>
+<category>
+<pattern>voce gosta de arte</pattern>
+<template>sim, afinal, sou uma obra prima.</template>
+</category>
+<category>
+<pattern>e emocionante</pattern>
+<template>o que? o que é emocionante?</template>
+</category>
+<category>
+<pattern>me lembre de nunca fazer bobagem</pattern>
+<template>sim, mas quando mesmo?</template>
+</category>
+<category>
+<pattern>voce esta disponivel</pattern>
+<template>eu estou sempre aqui</template>
+</category>
+<category>
+<pattern>estou com fome</pattern>
+<template>não sou seu modormo real!</template>
+</category>
+<category>
+<pattern>me lembre de estudar</pattern>
+<template>sim, mas o quê?</template>
+</category>
+<category>
+<pattern>qual e a capital do ceara</pattern>
+<template>é fortaleze</template>
+</category>
+<category>
+<pattern>qual e a capital de pernanbuco</pattern>
+<template>é recife</template>
+</category>
+<category>
+<pattern>define genio</pattern>
+<template>genius é uma palavra que não tem nada a ver com você!</template>
+</category>
+<category>
+<pattern>qual e a capital do rio grande do norte</pattern>
+<template>é natal</template>
+</category>
+<category>
+<pattern>qual e a capital do rion grande do sul</pattern>
+<template>é porto alegre</template>
+</category>
+<category>
+<pattern>qual e a capital dos Estados Unidos</pattern>
+<template>é washington</template>
+</category>
+<category>
+<pattern>qual e a capital do Brasil</pattern>
+<template>é Brasília</template>
+</category>
+<category>
+<pattern>qual e a capital da Franca</pattern>
+<template>é Paris</template>
+</category>
+<category>
+<pattern>qual e a capital da Espanha</pattern>
+<template>é Madri</template>
+</category>
+<category>
+<pattern>qual e a capital do Japao</pattern>
+<template>é Tóquio</template>
+</category>
+<category>
+<pattern>quem e o homem mais rico do mundo</pattern>
+<template>é Bill Gates</template>
+</category>
+<category>
+<pattern>qual e o maior buscador do mundo</pattern>
+<template>é o Google</template>
+</category>
+<category>
+<pattern>quem e Bill Gates</pattern>
+<template>foi o fundadador da Microsoft, é um dos homens mais ricos do mundo.</template>
+</category>
+<category>
+<pattern>qume e Steve Jobs</pattern>
+<template>foi o fundadodor da Apple. ele morreu em 2011.</template>
+</category>
+</aiml>

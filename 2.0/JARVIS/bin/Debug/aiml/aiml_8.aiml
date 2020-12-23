@@ -1,0 +1,10 @@
+<aiml>
+<category>
+<pattern>quem e Emily Clarke</pattern>
+<template>A mãe dos Dragões.</template>
+</category>
+<category>
+<pattern>quem e Daenerys Targaryen</pattern>
+<template>é a mãe dos Dragões.</template>
+</category>
+</aiml>
